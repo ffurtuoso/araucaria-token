@@ -1,8 +1,8 @@
 {
   "name": "Araucaria",
   "symbol": "ARAUC",
-  "description": "AR AUC is a community utility token on the Solana blockchain, designed to power access, staking rewards, and governance within the Araucaria ecosystem.",
-  "image": "https://github.com/ffurtuoso/araucaria-token/blob/main/arauctoken.png",
+  "description": "ARAUC is a community utility token on the Solana blockchain, designed to power access, staking rewards, and governance within the Araucaria ecosystem.",
+  "image": "https://ffurtuoso.github.io/araucaria-token/arauctoken.png",
   "external_url": "https://ffurtuoso.github.io/araucaria-token",
   "seller_fee_basis_points": 0,
   "attributes": [
@@ -11,8 +11,11 @@
   ],
   "properties": {
     "files": [
-      { "uri": "https://github.com/ffurtuoso/araucaria-token/blob/main/arauctoken.png", "type": "image/png" }
+      {
+        "uri": "https://ffurtuoso.github.io/araucaria-token/arauctoken.png",
+        "type": "image/png"
+      }
     ],
-    "category": "token"
+    "category": "image"
   }
 }
